@@ -2,7 +2,6 @@
 
 Ce projet a pour but de reproduire un jeu de Dames en JAVA.
 
-
 ## Etapes
 
 Nous avons réaliser ce projet en plusieurs étapes :
@@ -10,7 +9,6 @@ Nous avons réaliser ce projet en plusieurs étapes :
 - Recherche de méthode.
 
 - Recherche sur internet.
-
 
 ## Ressources et Méthodologie
 
